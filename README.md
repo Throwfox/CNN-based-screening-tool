@@ -1,6 +1,6 @@
 # CNN-Based Automatic Screening Tool for Cardiovascular Diseases
 
-This repository is the official implementation of [Convolutional neural network-based automatic screening tool for cardiovascular diseases using different intervals of ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721001103?dgcid=author), published in Computer Methods and Programs in Biomedicine. Feel free to contact me via this email (damon882046.c@nycu.edu.tw) if you have any problems.
+This repository is the official implementation of [Convolutional neural network-based automatic screening tool for cardiovascular diseases using different intervals of ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721001103?dgcid=author), published in Computer Methods and Programs in Biomedicine. Feel free to contact me via this email (haodai@ufl.edu) if you have any problems.
 
 
 ### Guideline:
